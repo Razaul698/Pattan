@@ -1,0 +1,2 @@
+# Pattan
+Number,,Binary,,Alfabet
